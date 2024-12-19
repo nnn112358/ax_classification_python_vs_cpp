@@ -1,5 +1,10 @@
 # ax_classification_python_vs_cpp
 
+## ABST
+Module-LLM(ax630)にて、PyAXEngine(Python)で1回目の推論の実行時間が遅いので、C++と比較した。
+
+https://x.com/nnn112358/status/1869695184994480277
+
 
 ## ax-samples(C++) mobilenetv2
 ```
